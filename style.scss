@@ -35,12 +35,12 @@ h1, h2, h3, h4, h5, h6 {
   color: $pink;
   font-weight: bold;
 
-  line-height: 2.3;
+  line-height: 2.5;
   margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
-    line-height: 2.0;
+    line-height: 2.2;
   }
 }
 
