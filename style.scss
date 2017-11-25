@@ -31,16 +31,16 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $georgia;
   color: $pink;
   font-weight: bold;
 
-  line-height: 1.7;
+  line-height: 1.9;
   margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
-    line-height: 1.4;
+    line-height: 1.6;
   }
 }
 
@@ -61,7 +61,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $white;
 }
 
 p {
@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $pink;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $white;
   }
 }
 
@@ -117,7 +117,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $black;
+  color: $pink;
 }
 
 // Specify the color of the selection
