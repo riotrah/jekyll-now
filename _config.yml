@@ -3,41 +3,26 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Rayat
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: I do code, music, design, life and muse aimlessly
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
-#
+# avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://lh3.googleusercontent.com/L0VMyiMDpLP6HRBuTk4F7VfqJyf3aaeNkm2MKRo1G66w3KIyvgXqKAJ7hYos-w6EmRs5g1NDfVE1xrp2DmuRoZgmRch6L5IILSl3cf5XDGNj3zrr95OFuhbmRm8pWhweR1-IQcc8XFWoPMSaP_dsqvqRmH2p-9xSEsfeYQ6_eUL30nV2u_KIArYpdxAkhiZmOruHhchqltFjAzLNQvJoxHdue9Q4Hb5q81Ysp9iTsNv6EaW0UnLVtRwokma_oc9LTtN9bqbckbutR155U1rdIBsc7Y0qwTyRnD_Wc_CAXxGukMt_DTzavvh9qW5hdgDkgLnW0WcCuBLW5Yt-7ekryM9DaqipkiBrIf7yGAlHQMCCjwrt44SNAGjVRGB29zKUvaLzoMJ6TDM4pJEB20se3BbIwjKWLzcoeDxDebfa7TTFYsBrBlZ9idZR0F8pHu7G8zlh9E4Xb3WW38-chLTRq4HWKsBGfCg4hnorJU8DfAsvfj_iJKhSL3UTSoCaCoYxdHzIK83Tyw_Ih6eMvq3rD0ApvgrkHnNPVSK1uz96lnLaUNgks2FWGzNNOH8gAP9laG45Z6VduxkaBoOLWakoTaXkxy2ClN4Z6Q8JsI-FoVk=s958-no
 # Flags below are optional
 #
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
+  email: rayat@nyu.edu
+  github: riotrah
+  instagram: riotrah
+  linkedin: rayatr
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-110154238-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
