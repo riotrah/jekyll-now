@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $gray;
+	background: $darkGray;
   font: 18px/1.4 $georgia;
   color: $white;
 }
@@ -35,12 +35,12 @@ h1, h2, h3, h4, h5, h6 {
   color: $pink;
   font-weight: bold;
 
-  line-height: 2.1;
+  line-height: 2.3;
   margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
-    line-height: 1.8;
+    line-height: 2.0;
   }
 }
 
@@ -195,7 +195,7 @@ img {
   color: $pink;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: 100;
+  font-weight: light;
   font-size: 28px;
   letter-spacing: 1px;
 }
@@ -225,7 +225,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $pink;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
