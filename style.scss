@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $darkGray;
-  font: 18px/1.4 $georgia;
+  font: 20px/1.9 $georgia;
   color: $white;
 }
 
@@ -31,16 +31,16 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $georgia;
+  font-family: $helveticaNeue;
   color: $pink;
-  font-weight: bold;
+  font-weight: 100;
 
-  line-height: 2.5;
+  line-height: 5;
   margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
-    line-height: 2.2;
+    line-height: 4.4;
   }
 }
 
