@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Album Review: Earthside - A Dream In Static
+title: Album Review - Earthside - A Dream In Static
 ---
 
 ![A Dream in Static Album Cover](/images/covers/earthside-cover.png "A Dream in Static Album Cover")
 
 **FFO: Persefone, Tool, Deftones, Karnivool, Haken, Hans Zimmer or any orchestral film soundtrack ever**
 
-Sometimes an artist will come along a deliver a work so profoundly similar in vision to your own artistic work you can't help but write a redundant blog review of it. I've been meaning to do this for like two years but never got round it. Now that I have a blog I have no excuse. Let me preface this entire review with the following: I am absolutely fanatical about this album. So much so I wrote a fucking 1500 word review.
+Sometimes an artist will come along a deliver a work so profoundly similar in vision to your own artistic work you can't help but write a redundant blog review of it. I've been meaning to do this for like two years but never got round it. Now that I have a blog I have no excuse. Let me preface this entire review with the following: I am absolutely fanatical about this album. So much so I wrote a 1500 word review.
 
 I discovered this album when it still had 500,000 views whilst on a YouTube album rabbit hole, from Haken's *1985* to Leprous's *The Congregation* to this artsy painted album cover of a head and... earth inside it. With my trust fully in Google's recommendation algorithm I figured this would be some ambient, spacey and sentimental prog djent record and so I let autoplay do its thing while I did homework.
 
