@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $darkGray;
+	background: $lightGray;
   font: 18px/1.4 $georgia;
   color: $white;
 }
@@ -35,12 +35,12 @@ h1, h2, h3, h4, h5, h6 {
   color: $pink;
   font-weight: bold;
 
-  line-height: 1.9;
+  line-height: 2.1;
   margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
-    line-height: 1.6;
+    line-height: 1.8;
   }
 }
 
@@ -192,17 +192,17 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $pink;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: 300;
+  font-weight: 100;
   font-size: 28px;
   letter-spacing: 1px;
 }
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $white;
   font-size: 16px;
 
   @include mobile {
