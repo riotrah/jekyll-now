@@ -1,0 +1,12 @@
+---
+layout: post
+title: Vulnerabilities
+---
+
+You may know me as someone who talks about himself a lot. Perhaps I say too much too soon too often, but I've found over the past few years great strength in exposing my most insecure parts to the people I meet. I feel more confidant actually, knowing that in a group of people there's nothing about me that could surprise them. It's probably more to do with liking the sound of my own voice tho.
+
+I wanna talk about how I've been increasingly trying to embrace this vulnerability openly.
+
+### Publishing unfinished music
+
+I think it would be interesting to plug into Reaper's (my DAW) ReaScript library (which supports Python!) to automatically find a select few songs, render them weekly or daily and have the latest version publically available on my website. My work will then be always available in its unfinished, ego-baring form
