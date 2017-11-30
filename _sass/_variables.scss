@@ -17,8 +17,9 @@ $white: #fff;
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$helveticaNeue: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+$fancyHeader: "Abril Flatface", Helvetica, Arial
 
 // Mobile breakpoints
 @mixin mobile {

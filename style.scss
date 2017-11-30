@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $darkGray;
+	background: $white;
   font: 20px/1.9 $georgia;
-  color: $white;
+  color: $darkGray;
 }
 
 .container {
@@ -31,10 +31,10 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $fancyHeader;
   color: $pink;
   font-weight: bold;
-  text-transform: full-width;
+  // text-transform: full-width;
 
   line-height: 1.5;
   margin: 1em 0 15px;
@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 40px;
   a {
     color: inherit;
   }
@@ -74,7 +74,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $white;
+    color: $darkGray;
   }
 }
 
@@ -271,7 +271,7 @@ nav {
   }
 
   .read-more {
-    text-transform: uppercase;
+    text-transform: full-width;
     font-size: 15px;
     font-family: $helveticaNeue;
   }
