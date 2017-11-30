@@ -31,10 +31,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $fancyHeader;
+  font-family: $helveticaNeue;
   color: $pink;
   font-weight: bold;
-  // text-transform: full-width;
 
   line-height: 1.5;
   margin: 1em 0 15px;
@@ -197,14 +196,15 @@ img {
   color: $pink;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: light;
+  font-weight: lighter;
   font-size: 28px;
   letter-spacing: 1px;
+  text-transform: uppercase;
 }
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $white;
+  color: $pink;
   font-size: 16px;
 
   @include mobile {
@@ -257,6 +257,18 @@ nav {
 }
 
 .post {
+
+  h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+
+    a {
+      border-bottom: solid 1px;
+      padding-bottom: 7px;
+      line-height: 2em;
+    }
+  }
+
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
