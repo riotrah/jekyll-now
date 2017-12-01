@@ -120,8 +120,8 @@ img {
   color: $pink;
   white-space: nowrap;
   position: absolute;
-  top: 452px;
-  left: 0;
+  top: 335px;
+  right: 70%;
   text-transform: full-width;
   transform: rotate(270deg);
 }
@@ -296,6 +296,8 @@ nav {
 }
 
 .article {
+
+  position: relative;
 
   h1 {
     margin-bottom: 75px;
