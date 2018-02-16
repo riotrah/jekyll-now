@@ -31,10 +31,10 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $fancyHeader;
   color: $pink;
   font-weight: lighter;
-  text-transform: full-width;
+  // text-transform: full-width;
 
   line-height: 1.5;
   margin: 1em 0 15px;
@@ -203,9 +203,9 @@ img {
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: lighter;
-  font-size: 28px;
+  font-size: 48px;
   letter-spacing: 1px;
-  text-transform: uppercase;
+  // text-transform: uppercase;
 }
 
 .site-description {
@@ -222,7 +222,7 @@ nav {
   margin-top: 100px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 28px;
-  text-align: center;
+  text-align: right;
   text-transform: uppercase;
   background: $pink;
 
