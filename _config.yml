@@ -18,8 +18,8 @@ avatar: https://lh3.googleusercontent.com/L0VMyiMDpLP6HRBuTk4F7VfqJyf3aaeNkm2MKR
 footer-links:
   email: rayat@nyu.edu
   github: riotrah
-  instagram: riotrah
-  linkedin: rayatr
+  # instagram: riotrah
+  # linkedin: rayatr
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-110154238-1

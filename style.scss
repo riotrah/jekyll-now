@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $fancyHeader;
-  color: $pink;
+  // color: $pink;
   font-weight: lighter;
   // text-transform: full-width;
 
@@ -70,8 +70,8 @@ p {
 }
 
 a {
-  color: $pink;
-  text-decoration: none;
+  // color: $pink;
+  text-decoration: underline dotted;
 	cursor: pointer;
   &:hover, &:active {
     color: $darkGray;
@@ -117,13 +117,16 @@ img {
 }
 
 .date {
-  color: $pink;
+  // color: $pink;
   white-space: nowrap;
   position: absolute;
-  top: 270px;
-  right: 85%;
-  text-transform: full-width;
+  top: 185px;
+  right: 95%;
+  text-transform: uppercase;
   transform: rotate(270deg);
+  font-family: Gotham, 'segoe ui', helvetica;
+  font-weight: 100;
+  text-align: right;
 }
 
 // Specify the color of the selection
@@ -199,7 +202,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $pink;
+  // color: $pink;
   cursor: pointer;
   font-family: $fancyHeader;
   font-weight: lighter;
@@ -210,7 +213,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $pink;
+  // color: $pink;
   font-size: 16px;
 
   @include mobile {
@@ -224,7 +227,8 @@ nav {
   font-size: 28px;
   text-align: right;
   text-transform: uppercase;
-  background: $pink;
+  // background: $pink;
+  background: $black;
 
   @include mobile {
     float: none;
@@ -306,7 +310,7 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  background-color: $pink;
+  // background-color: $pink;
 }
 
 footer {
