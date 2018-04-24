@@ -71,7 +71,7 @@ p {
 
 a {
   // color: $pink;
-  text-decoration: underline dotted;
+  // text-decoration: underline dotted;
 	cursor: pointer;
   &:hover, &:active {
     color: $darkGray;
@@ -293,6 +293,7 @@ nav {
   }
 
   .read-more {
+    text-transform: uppercase;
     text-transform: full-width;
     font-size: 15px;
     font-family: $helveticaNeue;
