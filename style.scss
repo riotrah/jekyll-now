@@ -71,7 +71,7 @@ p {
 
 a {
   // color: $pink;
-  // text-decoration: underline dotted;
+  text-decoration: unset;
 	cursor: pointer;
   &:hover, &:active {
     color: $darkGray;
