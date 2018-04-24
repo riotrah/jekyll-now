@@ -4,30 +4,20 @@ title: About
 permalink: /about/
 ---
 
-I study Computer Science and, tentatively, Philosophy at NYU.
+I study Computer Science and Philosophy at NYU.
 
 I like to write poetry/lyrics.
 
 I spend a lot of time composing and producing music.
-I like slap bass.
-I like singing choir and screaming metal.
-I like RnB and funky hip hop (20%).
-I like progressive metal (70%).
-I like good ol' rock and roll (10%).
 
 I spend a lot of time coding.
-I like javascript.
-I'm starting to not like javascript as much.
-I don't like java.
-I'm starting to like java more.
-I like the web.
-I like cloud computing and thinking about confusing architecture.
-I like graphic design.
+
+I spend a lot of time writing.
 
 I waste a lot of time thinking about motivation and time management.
 I spend a lot of time thinking about personal development, self esteem, masculinity, ethics and empowering myself and my friends.
 
-I like fashion and pretend to dress well sometimes.
+I like to look at people's outfits.
 
 ### Calling all collaborators
 
