@@ -29,8 +29,8 @@ body {
   padding: 0 10px;
   width: 100%; 
   
-  @import mobile {
-      padding: 30px;
+  @include mobile {
+      width: 95%;
   }
 }
 
