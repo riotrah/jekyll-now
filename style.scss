@@ -198,9 +198,9 @@ img {
   height: 70px;
 
   @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
+    // float: none;
+    // display: block;
+    // margin: 0 auto;
   }
 }
 
@@ -221,7 +221,7 @@ img {
   font-size: 16px;
 
   @include mobile {
-    margin: 3px 0;
+    //margin: 3px 0;
   }
 }
 
@@ -236,10 +236,10 @@ nav {
   borer: solid black 1px;
 
   @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    font-size: 16px;
+    // float: none;
+    // margin-top: 9px;
+    // display: block;
+    // font-size: 16px;
   }
 
   a {
@@ -251,8 +251,8 @@ nav {
     text-align: center;
 
     @include mobile {
-      margin: 0 10px;
-      color: $blue;
+      // margin: 0 10px;
+      // color: $blue;
     }
   }
 }
