@@ -12,14 +12,16 @@ $black: #000;
 $darkerGray: #222;
 $darkGray: #333;
 $gray: #666;
-$lightGray: #eee;
+$lightGray: #555;
 $white: #fff;
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
-$fancyHeader: "Abril Fatface", Helvetica, Arial;
+$sansCopy: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+$italic: Georgia, $sansCopy;
+$serif: Georgia, serif;
+$fancyHeader: "Abril Fatface", Georgia, Helvetica, Arial;
 
 // Mobile breakpoints
 @mixin mobile {

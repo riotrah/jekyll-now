@@ -20,12 +20,12 @@ html {
 body {
 	background: $white;
   font: 17px/1.9 sans-serif;
-  color: $darkGray;
+  color: $lightGray;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 640px;
+  max-width: 700px;
   padding: 0 10px;
   width: 100%;
 }
@@ -67,6 +67,7 @@ h4 {
 
 p {
   margin: 45px 0;
+  letter-spacing: 0.3px;
 }
 
 a {
@@ -101,6 +102,7 @@ ul ul, ol ul {
 
 em, i {
   font-style: italic;
+  font-family: $italic
 }
 
 strong, b {
@@ -166,11 +168,17 @@ img {
 .masthead {
   padding: 20px;
   // border: solid 2px black;
-  background: black;
+  background: $darkGray;
   color: white;
 
+}
+
+.wrapper-masthead .container {
+
   @include mobile {
-    text-align: center;
+    max-width: unset;
+    padding: 0;
+    width: 100%;
   }
 }
 
@@ -221,7 +229,8 @@ img {
   font-size: 16px;
 
   @include mobile {
-    margin: 3px 0;
+    // margin: 3px 0;
+    display: none;
   }
 }
 
