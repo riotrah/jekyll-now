@@ -27,7 +27,11 @@ body {
   margin: 0 auto;
   max-width: 700px;
   padding: 0 10px;
-  width: 100%;
+  width: 100%; 
+  
+  @include mobile {
+      width: 95%;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -206,9 +210,9 @@ img {
   height: 70px;
 
   @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
+    // float: none;
+    // display: block;
+    // margin: 0 auto;
   }
 }
 
@@ -245,23 +249,23 @@ nav {
   borer: solid black 1px;
 
   @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    font-size: 16px;
+    // float: none;
+    // margin-top: 9px;
+    // display: block;
+    // font-size: 16px;
   }
 
   a {
     margin-right: 20px;
-    // color: white;
+    color: white;
     // text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
     text-align: center;
 
     @include mobile {
-      margin: 0 10px;
-      color: $blue;
+      // margin: 0 10px;
+      // color: $blue;
     }
   }
 }
