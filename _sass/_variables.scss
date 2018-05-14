@@ -24,6 +24,9 @@ $italic: Georgia, $sansCopy;
 $serif: Georgia, serif;
 $fancyHeader: "Abril Fatface", Georgia, Helvetica, Arial;
 
+// Imgs
+$mastheadTexture: url("../images/diagmonds.png");
+
 // Mobile breakpoints
 @mixin mobile {
   @media screen and (max-width: 640px) {

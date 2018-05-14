@@ -186,7 +186,7 @@ img {
 .masthead {
   background: white;
   min-height: 390px;
-  color: #444;
+  color: $lightGray;
   left: 50%;
   border: solid ehiyr 10px;
   width: 680px;
@@ -206,7 +206,8 @@ img {
 .wrapper-masthead .container {
   
   max-width: unset;
-  background: #444;
+  background: #555;
+  background-image: $mastheadTexture;
   min-height: 400px;
   
   @include mobile {
@@ -286,7 +287,6 @@ nav {
   text-align: center;
   width: 100%;
   /* border: solid black 1px; */
-  /* background: #444; */
   top: -60px;
   text-transform: lowercase;
   font-style: italic;
