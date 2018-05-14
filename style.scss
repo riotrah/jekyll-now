@@ -271,7 +271,6 @@ nav {
   top: -60px;
   text-transform: lowercase;
   font-style: italic;
-}
 
   @include mobile {
     // float: none;
@@ -287,11 +286,6 @@ nav {
     font-weight: 100;
     letter-spacing: 1px;
     // text-align: center;
-
-    @include mobile {
-      // margin: 0 10px;
-      // color: $blue;
-    }
   }
 }
 
