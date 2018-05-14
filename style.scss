@@ -169,7 +169,7 @@ img {
   margin-bottom: 220px;
 
   @include mobile {
-    margin-bottom: 0;
+    margin-bottom: 105px;
   }
 }
 
@@ -185,9 +185,11 @@ img {
   margin: auto;
 
   @include mobile {
-    position: absolute;
+    position: unset;
   transform: translate(0, 50%);
   background: unset;
+  width: unset;
+  min-height: unset;
   }
 }
 
@@ -230,8 +232,7 @@ img {
   padding: 20%;
 
   @include mobile {
-    // float: none;
-    // display: block;
+    padding: 7%;
     width: 91%;
     margin: auto;
     background: white;
