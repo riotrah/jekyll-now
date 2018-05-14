@@ -41,7 +41,8 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-          {% include svg-icons.html %}
+          <p>email: firstname AT n y u DOT edu</p>
+          {% if site.footer-links.github %}<a href="https://github.com/{{ site.footer-links.github }}"><p>github: riotrah<p></a>{% endif %}
         </footer>
       </div>
     </div>

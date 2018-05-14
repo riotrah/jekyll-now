@@ -79,7 +79,7 @@ a {
   text-decoration: unset;
 	cursor: pointer;
   &:hover, &:active {
-    color: $darkGray;
+    border-bottom: dashed 1px;  
   }
 }
 
@@ -166,18 +166,31 @@ img {
 //
 
 .wrapper-masthead {
-  // margin-bottom: 50px;
+  margin-bottom: 220px;
 }
 
 .masthead {
-  padding: 20px;
+  // padding: 20px;
   // border: solid 2px black;
-  background: $darkGray;
-  color: white;
-
+  // background: $darkGray;
+  // color: white;
+  background: white;
+  min-height: 390px;
+  color: #444;
+  left: 50%;
+  border: solid ehiyr 10px;
+  width: 680px;
+  position: absolute;
+  transform: translate(-50%, 50%);
+  margin: auto;
+  /* box-shadow: 0 0 20px 0px rgba(0,0,0,0.5); */
 }
 
 .wrapper-masthead .container {
+
+  max-width: unset;
+  background: #444;
+  min-height: 400px;
 
   @include mobile {
     max-width: unset;
@@ -204,10 +217,11 @@ img {
 }
 
 .site-info {
-  float: left;
+  // float: left;
   text-align: center;
   width: 100%;
-  height: 70px;
+  height: 100%;
+  padding: 20%;
 
   @include mobile {
     // float: none;
@@ -219,18 +233,25 @@ img {
 .site-name {
   margin: 0;
   // color: $pink;
-  cursor: pointer;
+  // cursor: pointer;
   font-family: $fancyHeader;
   font-weight: lighter;
   font-size: 48px;
+  height: unset;
   letter-spacing: 1px;
   // text-transform: uppercase;
+
+  a:hover {
+    border: unset;
+  }
 }
 
 .site-description {
-  margin: -5px 0 0 0;
+  margin: 0;
   // color: $pink;
   font-size: 16px;
+  float: unset;
+  font-style: italic;
 
   @include mobile {
     // margin: 3px 0;
@@ -239,14 +260,18 @@ img {
 }
 
 nav {
-  margin-top: 160px; // @TODO: Vertically middle align
-  font-family: sans-serif;
+  // margin-top: 30px;
+  font-family: $serif;
   font-size: 28px;
+  position: absolute;
   text-align: center;
-  // text-transform: uppercase;
-  // background: $pink;
-  // background: $black;
-  borer: solid black 1px;
+  width: 100%;
+  /* border: solid black 1px; */
+  /* background: #444; */
+  top: -60px;
+  text-transform: lowercase;
+  font-style: italic;
+}
 
   @include mobile {
     // float: none;
@@ -256,12 +281,12 @@ nav {
   }
 
   a {
-    margin-right: 20px;
+    margin: 20px;
     color: white;
     // text-align: right;
-    font-weight: 300;
+    font-weight: 100;
     letter-spacing: 1px;
-    text-align: center;
+    // text-align: center;
 
     @include mobile {
       // margin: 0 10px;
@@ -275,8 +300,9 @@ nav {
 //
 
 .posts > .post {
-  // padding-bottom: 2em;
-  // border-bottom: 1px solid $lightGray;
+  background: white;
+  padding: 20px;
+  margin: 40px 0;
 }
 
 .posts > .post:last-child {
@@ -288,10 +314,11 @@ nav {
 
   h1 {
     font-size: 30px;
-    margin-bottom: 20px;
+    margin: 5px 0;
+    text-align: center;
 
     a {
-      border-bottom: solid 1px;
+      // border-bottom: solid 1px;
       padding-bottom: 7px;
       line-height: 2em;
     }
@@ -335,6 +362,14 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+  background: white;
+
+  p {
+    font-family: $serif;
+    font-style: italic;
+    margin: 0;
+    padding: 10px;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
