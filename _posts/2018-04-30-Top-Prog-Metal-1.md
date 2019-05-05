@@ -56,9 +56,9 @@ Atmospheric, heavy, artful and brooding - we have Mariner by Cult of Luna, featu
 ## 21. Anathema - Alternative 4
 ## 22. Deafheaven - Sunbather
 ## 23. Intronaut - Intronaut Habitual Levitations (_Instilling Words with Tones_)
-## 24. Klone - Black Days
+## 24. Isis - Oceanic
 
-I don't actually think this is a perfect work of prog, but it's one that has stuck with me throughout the years. Coming from the minds of a French prog metal group inspired by Meshuggah and Tool (no, not *that* one)
+I know Panopticon is their canonically best record but I literally immediately fell in love with Oceanic the moment I heard *The Beginning and the End*. I've only heard the former album once, but I've since listened to Oceanic back to back multiple times. This record and its successor cemented Post Metal as a genre to look out for, one that rose above its influences to create some of the most artful and innovative corners of metal. Well, except for all the crescendo-core bands. 
 
 ## 25. Soundgarden - Badmotorfinger
 ## 26. The Ocean - Pelagial
