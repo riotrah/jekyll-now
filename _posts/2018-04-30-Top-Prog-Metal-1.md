@@ -6,11 +6,11 @@ published: true
 
 I put off homework to make this list. I recommend you try to control for the hyperbole with which I'm inevitably going to describe my favorite music.
  
-## 1. (¬"_The_") Deftones - Koi No Yokan
+## 1. Deftones - Koi No Yokan
 
 One of the most beautiful works of art I've ever experienced. The perfect blend of the beauty of Deftones' lush, atmospheric, -gaze timbre with the brutal but minimalist crush of Carpenter's downtuned riffs, the interplay between the two sounds no longer relegated to alternating passages but now fused in every second. What a fucking soundscape. 
 
-## 2. lol - 10,000 Days
+## 2. Tool - 10,000 Days
 
 This is mainly here instead of Lateralus because that album isn't really metal. Fantastic riffs and an excellent sense of pop sensibility and more emotion laden - if sometimes dumber - lyrics power Tool's most heavy record, full of serpentine bass lines and batshit octopus drumming. Feels exactly like what one would expect from the result of Tool having toured with Meshuggah. This is no. 2 not because of some intense deliberation process, but because no matter how long of a break I take from this album/band (up to a year once, believe it or not) I can't stop ripping off its sound unconsciously or otherwise.
 
